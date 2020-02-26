@@ -1,0 +1,7 @@
+CREATE TABLE clients(
+	ID INT NOT NULL AUTO_INCREMENT,
+    name VARCHAR(30),
+    login VARCHAR(128),
+    pass VARCHAR(128),
+    PRIMARY KEY (id)
+);

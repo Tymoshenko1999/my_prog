@@ -1,0 +1,1 @@
+This program allows you to authorize or register a user in the system using SQL table that was created by the command from the file SQL.txt

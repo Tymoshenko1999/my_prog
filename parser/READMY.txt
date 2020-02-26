@@ -1,0 +1,1 @@
+This is a program for site parsing and automatic user authorization on the site. To do this, script send headers and data from the login_data form.
